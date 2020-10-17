@@ -1,3 +1,4 @@
+[![Run on Repl.it](https://repl.it/badge/github/ding-kevin/204-assignment2)](https://repl.it/github/ding-kevin/204-assignment2)
 
 # CISC/CMPE 204: Assignment 2
 
